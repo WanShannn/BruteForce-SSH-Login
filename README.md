@@ -25,8 +25,10 @@
   
     > ```shell
     > search ssh_login
+    > use auxiliary/scanner/ssh/ssh_login
     > ```
-    > ![image](https://github.com/WanShannn/BruteForce-SSH-Login/blob/main/result/3.png)
+    > ![image](https://github.com/WanShannn/BruteForce-SSH-Login/blob/main/result/3-1.png)
+    > ![image](https://github.com/WanShannn/BruteForce-SSH-Login/blob/main/result/3-2.png)
 * step4：查看使用的模組腳本需要設定的參數
   * 這邊四個重要的參數必須設定，`目標主機IP`、`目標主機port號`、`使用者帳號`、`使用者密碼`
   
