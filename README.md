@@ -33,7 +33,7 @@
   * 這邊四個重要的參數必須設定，`目標主機IP`、`目標主機port號`、`使用者帳號`、`使用者密碼`
   
     > ```shell
-    > option
+    > options
     > ```
     > ![image](https://github.com/WanShannn/BruteForce-SSH-Login/blob/main/result/4.png)
 * step5：設定目標主機IP
